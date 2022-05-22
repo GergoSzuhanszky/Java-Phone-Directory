@@ -6,4 +6,4 @@ I learned about classes/objects and their relation, polymorphism, inheritance, m
 
 
 UML Diagram:
-![](images/UML)
+![](images/UML.png)
